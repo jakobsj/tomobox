@@ -3,7 +3,7 @@ A few tools for tomographic reconstruction experiments
 
 Tiny collection of tools that enables simple experiments with tomographic reconstruction of three-dimensional objects from two-dimensional projections using a parallel beam geometry.
 
-# The zip-file contains the following files:
+# Contents:
 
 buildSystemMatrix.m: Sets up a tomographic system matrix for a parallel beam geometry in three dimensions
 

@@ -9,7 +9,7 @@ buildSystemMatrix.m: Sets up a tomographic system matrix for a parallel beam geo
 
 getNoise.m: Creates a vector of Gaussian white noise.
 
-phantom3d.m: Create a three-dimensional extension of the classic Shepp-Logan test image. This file is made by Matthias Schabel and published at the FEX as File ID: #9416.
+phantom3d.m: Create a three-dimensional extension of the classic Shepp-Logan test image. This file is made by Matthias Schabel and published at the MATLAB File Exchange as File ID: #9416, https://uk.mathworks.com/matlabcentral/fileexchange/9416-3d-shepp-logan-phantom
 
 plotLayers.m: Displays the layers of threedimensional array.
 
